@@ -41,7 +41,8 @@ params:
     profileMode:
           enabled: true
           title: Cagin Keskin
-          subtitle: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences."
+          subtitle: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.
+          <br><br> My research interest lies in endogenous growth theory, firm dynamics, and intangible assets. <br><br> You can reach out to me at Cagin.Keskin@cerge-ei.cz "
           imageUrl: "cagin.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -51,7 +52,7 @@ params:
               url: papers/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cagin_cv.pdf
         - name: Email
           url: mailto:Cagin.Keskin@cerge-ei.cz
         - name: Location
@@ -68,7 +69,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Cagin Keskin"
-      icon: favicon.ico
+      icon: atom.ico
       iconHeight: 18
 
 markup:
