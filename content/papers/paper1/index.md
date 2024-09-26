@@ -1,19 +1,14 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
+title: "Step by Step Intangibles!" 
+date: 2024-09-15
 lastmod: 2024-07-12
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+author: ["Cagin Keskin"]
+description: "This paper explores the empirical observation of the rising intangible-to-tangible ratio since 1990, then its stagnation in the past decade accounting for intangible heterogeneities. " 
+summary: "This paper explores the empirical observation of the rising intangible-to-tangible ratio since 1990, then its stagnation in the past decade accounting for intangible heterogeneities. I propose that not only firms’ transferable assets (R&D, productivity) but also embedded intangible assets, such as brand value and organizational capital, influence business dynamics." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: Step by Step Intangibles!"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
-
 ---
 
 ---
@@ -21,42 +16,18 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Presentation Slides](presentation1.pdf)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paper explores the empirical observation of the rising intangible-to-tangible ratio since 1990, then its stagnation in the past decade accounting for intangible heterogeneities. I propose that not only firms’ transferable assets (R&D, productivity) but also embedded intangible assets, such as brand value and organizational capital, influence business dynamics. I employ a Schumpeterian step-by-step innovation model to illustrate how the dynamics of intangible assets can shed light on empirical observations, including higher R&D and embedded intangible asset intensity, slowdown business dynamics, and increasing markup. The model shows that embedded assets significantly contribute to increasing the intangible-to-tangible ratio during the transitional period. Conversely, they have a level effect rather than a growth effect in the long run. In addition, I implement the span of control on the endogenous growth model, and when firms add multiple production lines, their total markup and profit rise—however, each production line’s markup and profit decrease due to the span of control problem. From a welfare perspective, embedded intangible assets affect the product’s demand and price in the transitional period. The demand effect has a positive impact, while the price effect has a negative impact, which effect dominates depending on the joint distribution of the number of production lines that firms have, productivity, and the embedded intangible gap in each sector.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: Parallel Trends for Intangible Assets
 
 ![](paper1.png)
 
 ---
-
-##### Citation
-
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
