@@ -13,6 +13,8 @@ menu:
     main:
         - name: Work in Progress
           url: papers/
+        - name: Curriculum Vitae
+          url: cagin_cv.pdf
 
 params:
     description: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences. "
@@ -30,7 +32,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["Work in Progress"]
+    MainSections: ["Work in Progress", "Curriculum Vitae"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,9 +52,9 @@ params:
           buttons:
             - name: Work in Progress
               url: papers/
+            - name: Curriculum Vitae
+              url: cagin_cv.pdf
     socialIcons:
-        - name: CV
-          url: cagin_cv.pdf
         - name: Email
           url: mailto:Cagin.Keskin@cerge-ei.cz
         - name: Location
