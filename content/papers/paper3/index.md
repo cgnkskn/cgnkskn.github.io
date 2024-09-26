@@ -2,7 +2,7 @@
 title: "What Happened to the Intangible over Tangible Ratio? " 
 date: 2024-05-03
 lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
+tags: ["directed technological change","step-by-step innovation","intangible assets","firm dynamics"]
 author: ["Cagin Keskin"]
 description: "In this research, I investigate what caused the intangible over tangible ratio to increase. One explanation for the surge in intangible assets is the increase driven by globalization and skill-biased task specialization. Globalization has expanded market size and intensified competition, making the marginal cost advantage more significant through intangibles." 
 summary: "In this research, I investigate what caused the intangible over tangible ratio to increase. One explanation for the surge in intangible assets is the increase driven by globalization and skill-biased task specialization. Globalization has expanded market size and intensified competition, making the marginal cost advantage more significant through intangibles." 
