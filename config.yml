@@ -71,7 +71,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Cagin Keskin"
-      icon: atom.ico
+      icon: favicon.ico
       iconHeight: 18
       
 markup:
