@@ -73,14 +73,7 @@ params:
       text: "Cagin Keskin"
       icon: atom.ico
       iconHeight: 18
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
-
-
+      
 markup:
     goldmark:
         renderer:
