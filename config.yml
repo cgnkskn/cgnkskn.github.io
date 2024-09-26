@@ -44,10 +44,10 @@ params:
           enabled: true
           title: Cagin Keskin
           subtitle: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.
-          <br><br> My research interest lies in endogenous growth theory, firm dynamics, and intangible assets. <br><br> You can reach out to me at Cagin.Keskin@cerge-ei.cz "
+          <br><br> My research interest lies in endogenous growth theory, firm dynamics, and intangible assets. <br><br> You can reach out to me at <b> Cagin.Keskin@cerge-ei.cz <b> "
           imageUrl: "cagin.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: Cagin Keskin
           buttons:
             - name: Work in Progress
@@ -73,6 +73,13 @@ params:
       text: "Cagin Keskin"
       icon: atom.ico
       iconHeight: 18
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 
 markup:
     goldmark:

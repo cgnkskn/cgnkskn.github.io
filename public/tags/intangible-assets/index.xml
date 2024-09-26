@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This paper explores the empirical observation of the rising intangible-to-tangible ratio since 1990, then its stagnation in the past decade accounting for intangible heterogeneities. </description>
     </item>
+    <item>
+      <title>What Happened to the Intangible over Tangible Ratio? </title>
+      <link>http://localhost:1313/papers/paper3/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper3/</guid>
+      <description>In this research, I investigate what caused the intangible over tangible ratio to increase. One explanation for the surge in intangible assets is the increase driven by globalization and skill-biased task specialization. Globalization has expanded market size and intensified competition, making the marginal cost advantage more significant through intangibles.</description>
+    </item>
   </channel>
 </rss>
