@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cagin Keskin</title>
-    <link>http://localhost:1313/</link>
+    <link>https://cgnkskn.github.io/</link>
     <description>Recent content on Cagin Keskin</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cgnkskn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Step by Step Intangibles!</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>https://cgnkskn.github.io/papers/paper1/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>https://cgnkskn.github.io/papers/paper1/</guid>
       <description>This paper explores the empirical observation of the rising intangible-to-tangible ratio since 1990, then its stagnation in the past decade accounting for intangible heterogeneities. </description>
     </item>
     <item>
       <title>Effect of Tax Reform on Intangible Investment and Market Concentration: The Case of Tax Cut and Job Act in the US</title>
-      <link>http://localhost:1313/papers/paper2/</link>
+      <link>https://cgnkskn.github.io/papers/paper2/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper2/</guid>
+      <guid>https://cgnkskn.github.io/papers/paper2/</guid>
       <description>In December 2017, the United States Congress passed the Tax Cut and Jobs Act (TCJA), significantly reducing the corporate tax rate and introducing favorable policies for intangible assets. This paper aims to investigate the impact of the TCJA on various aspects of corporate behavior, including investments in intangibles, research and development (R&amp;amp;D) spending, and sales, general, and administrative (SG&amp;amp;A) expenses.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://cgnkskn.github.io/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://cgnkskn.github.io/location/</guid>
       <description>Cagin&amp;#39;s mailing and office addresses at CERGE-EI.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
+      <link>https://cgnkskn.github.io/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
+      <guid>https://cgnkskn.github.io/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>What Happened to the Intangible over Tangible Ratio? </title>
-      <link>http://localhost:1313/papers/paper3/</link>
+      <link>https://cgnkskn.github.io/papers/paper3/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper3/</guid>
+      <guid>https://cgnkskn.github.io/papers/paper3/</guid>
       <description>In this research, I investigate what caused the intangible over tangible ratio to increase. One explanation for the surge in intangible assets is the increase driven by globalization and skill-biased task specialization. Globalization has expanded market size and intensified competition, making the marginal cost advantage more significant through intangibles.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/data/data1/</link>
+      <link>https://cgnkskn.github.io/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/data1/</guid>
+      <guid>https://cgnkskn.github.io/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:1313/courses/course1/</link>
+      <link>https://cgnkskn.github.io/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course1/</guid>
+      <guid>https://cgnkskn.github.io/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/books/book1/</link>
+      <link>https://cgnkskn.github.io/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/book1/</guid>
+      <guid>https://cgnkskn.github.io/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>http://localhost:1313/courses/course2/</link>
+      <link>https://cgnkskn.github.io/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/course2/</guid>
+      <guid>https://cgnkskn.github.io/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>
