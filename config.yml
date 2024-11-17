@@ -20,7 +20,7 @@ params:
     description: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences. "
     author: Cagin Keskin
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2016"
+    DateFormat: "January 2024"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
