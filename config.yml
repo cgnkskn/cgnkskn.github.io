@@ -58,14 +58,11 @@ params:
         - name: Email
           url: mailto:Cagin.Keskin@cerge-ei.cz
         - mame: Twitter
-        url: https://x.com/cgnkskn
+          url: https://x.com/cgnkskn
         - name: Location
           url: location/
         - name: GitHub
           url: https://github.com/cgnkskn
-        # - name: Twitter
-          # url: https://twitter.com/cgnkskn
-
     assets:
         disableScrollBarStyle: true
     cover:
