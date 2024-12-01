@@ -57,7 +57,7 @@ params:
     socialIcons:
         - name: Email
           url: mailto:Cagin.Keskin@cerge-ei.cz
-        - mame: X
+        - mame: Twitter
         url: https://x.com/cgnkskn
         - name: Location
           url: location/
