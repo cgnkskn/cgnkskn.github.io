@@ -57,7 +57,7 @@ classes: wide
                 Schumpeterian Growth, Step-by-Step Innovation, Intangible Assets, Firm Dynamics
             </div>
          <a 
-      href="https://www.dropbox.com/scl/fi/hdvvsey529dq61ul1329h/Step_by_Step_Intangibles.pdf?rlkey=koc9ifsydx4dcty65wsl20h49&st=xol5w4pb&dl=0"
+      href="https://www.dropbox.com/scl/fi/0sosu4gaqz45mpqo3cubh/Step_by_Step_Intangibles.pdf?rlkey=zfzex7samp0rxjv40u2r5rhn9&st=vmbrp8f4&dl=0"
       target="_blank"
       rel="noopener noreferrer"
       style="
