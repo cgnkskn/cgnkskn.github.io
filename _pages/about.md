@@ -97,6 +97,150 @@ classes: wide
     </div>
 </div>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cagin Keskin | PhD Candidate</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      background-color: #f9fafb;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(to right, #0052cc, #0073e6);
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    header img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border: 4px solid white;
+      margin-bottom: 1rem;
+    }
+
+    header h1 {
+      margin: 0.5rem 0 0;
+      font-size: 1.8rem;
+    }
+
+    header p {
+      font-size: 1rem;
+      margin: 0.3rem 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .contact {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin: 1rem 0;
+    }
+
+    .contact a {
+      text-decoration: none;
+      color: #0052cc;
+      font-weight: 500;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 0.6rem 1.2rem;
+      background: #0052cc;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 1rem;
+      transition: background 0.3s ease;
+    }
+
+    .btn:hover {
+      background: #003d99;
+    }
+
+    h2 {
+      margin-top: 2rem;
+      color: #0052cc;
+      border-bottom: 2px solid #e0e0e0;
+      padding-bottom: 0.5rem;
+    }
+
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+
+    .card h3 {
+      margin-top: 0;
+      color: #0073e6;
+    }
+
+    .tags {
+      margin-top: 0.8rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="your-photo.jpg" alt="Cagin Keskin">
+    <h1>Cagin Keskin</h1>
+    <p>Ph.D. Candidate, CERGE-EI</p>
+    <p>Prague, CZ</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <p>
+        I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.
+      </p>
+      <p>
+        My research interests lie in firm dynamics, production networks, and topics at the intersection of macroeconomics and international trade.
+      </p>
+      <p>
+        You can reach out to me at <a href="mailto:Cagin.Keskin@cerge-ei.cz">Cagin.Keskin@cerge-ei.cz</a>.
+      </p>
+      <a href="#" class="btn">Curriculum Vitae</a>
+    </section>
+
+    <h2>Research</h2>
+
+    <div class="card">
+      <h3>Step-by-Step Intangibles</h3>
+      <p><strong>Abstract.</strong> In this paper, I distinguish intangibles into transferable (patent, software) and embedded (brand value, organizational capital), which provide firms with a competitive advantage. I document that as firms increase their degree of segmentation, the ratio of transferable to embedded intangible investment, markup, productivity, and market fluidity declines, indicating that segmentation is systematically associated with a shifting intangible composition and frictions that reduce market fluidity...</p>
+      <p class="tags">Schumpeterian Growth, Step-by-Step Innovation, Intangible Assets, Firm Dynamics</p>
+      <a href="#" class="btn">Link to Paper</a>
+    </div>
+  </div>
+
+</body>
+</html>
 
 
 
