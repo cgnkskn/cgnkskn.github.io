@@ -99,20 +99,6 @@ classes: wide
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cagin Keskin | Ph.D. Candidate in Economics</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
         
         body {
             background-color: #f8f9fa;
@@ -321,44 +307,6 @@ classes: wide
             font-family: monospace;
         }
     </style>
-</head>
-<body>
-    <header>
-        <div class="container header-content">
-            <div class="profile-info">
-                <h1>Cagin Keskin</h1>
-                <p class="subtitle">Ph.D. Candidate in Economics</p>
-                <p class="subtitle">CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute)</p>
-                <div class="contact-info">
-                    <p><i class="fas fa-envelope"></i> Email: <a href="mailto:Cagin.Keskin@cerge-ei.cz">Cagin.Keskin@cerge-ei.cz</a></p>
-                </div>
-                <div class="social-links">
-                    <a href="#" title="Google Scholar"><i class="fab fa-google"></i></a>
-                    <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                    <a href="#" title="ResearchGate"><i class="fab fa-researchgate"></i></a>
-                    <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
-                </div>
-            </div>
-            <div class="profile-image">
-                <div class="profile-img">
-                    <i class="fas fa-user-graduate"></i>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <div class="container">
-        <section id="about">
-            <h2>About Me</h2>
-            <p>I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences.</p>
-            <p>My research interests lie in firm dynamics, production networks, and more generally topics at the intersection between macroeconomics and international trade.</p>
-        </section>
-
-        <section id="cv">
-            <h2>Curriculum Vitae</h2>
-            <p>My complete academic CV is available for download.</p>
-            <a href="#" class="btn"><i class="fas fa-download"></i> Download CV (PDF)</a>
-        </section>
 
         <section id="research">
             <h2>Research</h2>
