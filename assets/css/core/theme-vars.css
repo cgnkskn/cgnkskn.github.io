@@ -5,8 +5,8 @@
 }
 
 :root {
-    --gap: 24px;
-    --content-gap: 24px;
+    --gap: 18px;
+    --content-gap: 18px;
     --nav-width: 1024px;
     --main-width: 1080px;
     --header-height: 44px;
@@ -25,15 +25,15 @@
     --darkcolor: #6a7ba2;
     --lightcolor: #cbd1de;
     --semibold: 500;
-    --homesize: 24px;
-    --textsize: 24px;
-    --h1size: 25px;
-    --entrysize: 20px;
-    --headersize: 24px;
-    --footersize: 20px;
+    --homesize: 18px;
+    --textsize: 18px;
+    --h1size: 18px;
+    --entrysize: 18px;
+    --headersize: 18px;
+    --footersize: 18px;
     --lineheight: 1.45;
     --lineclamp: 8;
-    --marginleft: 26px;
+    --marginleft: 20px;
 }
 
 .dark {

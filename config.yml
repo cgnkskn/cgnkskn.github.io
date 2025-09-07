@@ -55,8 +55,8 @@ params:
             </div>
 
           imageUrl: "picture.jpeg"
-          imageWidth: 260
-          imageHeight: 260
+          imageWidth: 190
+          imageHeight: 190
           buttons: 
             - name: Job-market paper
               url: KESKIN_JMP.pdf
