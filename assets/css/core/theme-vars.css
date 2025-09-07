@@ -1,6 +1,6 @@
 :root {
     --gap: 24px;
-    --content-gap: 20px;
+    --content-gap: 24px;
     --nav-width: 1024px;
     --main-width: 1080px;
     --header-height: 44px;
@@ -23,7 +23,7 @@
     --textsize: 24px;
     --h1size: 25px;
     --entrysize: 15px;
-    --headersize: 16px;
+    --headersize: 24px;
     --footersize: 13px;
     --lineheight: 1.45;
     --lineclamp: 8;
