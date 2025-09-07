@@ -5,7 +5,7 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 20
+  pagerSize: 40
 
 taxonomies:
     tag: tags
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Cagin Keskin
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences. My research interests lie in firm dynamics, production networks, and more generally topics at the intersection between macroeconomics and international trade. You can reach out to me at Cagin.Keskin@cerge-ei.cz"
           imageUrl: "picture.jpeg"
           imageWidth: 260
           imageHeight: 260
