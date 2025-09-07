@@ -1,17 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+title: "Firm Scope and Innovation: The Role of Intangibles" 
+#date: 2013-01-15
+tags: ["Schumpeterian growth", "step-by-step innovation", "intangibles", "firm dynamics", "span of control"]
+author: ["Cagin Keskin"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+summary: "Horizontal expansion through an increasing product portfolio lies at the core of modern endogenous growth literature. Yet evidence remains limited on how diversification across industries influences a firm's trade-off between generating social surplus and capturing private returns." 
 cover:
-    image: "paper1.png"
+    #image: "growth.jpg"
     alt: "Some Uses For Olive Oil"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    #Text: "Journal of Oleic Science"
 
 ---
 
@@ -19,43 +19,23 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](KESKIN_JMP.pdf)
++ [Code and data](Added Soon)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Horizontal expansion through an increasing product portfolio lies at the core of modern endogenous growth literature. Yet evidence remains limited on how diversification across industries influences a firm's trade-off between generating social surplus and capturing private returns. To investigate this, I categorize intangible assets by their spillovers: transferable intangibles (patents, software) generate social surplus, whereas embedded intangibles (organizational capital, brand value) primarily yield private returns. I document that diversified firms reallocate investment toward embedded intangibles, a strategic shift accompanied by declining markups and productivity, as well as reduced innovation by their rivals. Motivated by this evidence, I extend a canonical endogenous-growth framework to endogenize firms' allocation between transferable and embedded intangibles while allowing for both horizontal and vertical expansion. A key prediction of the model is that embedded intangibles are the primary driver of a firm's ability to expand across industries, which also raises entry barriers for competitors and decreases social return rather than promoting long-run growth. Thus, the shift in innovative effort ultimately sacrifices economy-wide growth for firm-level market advantages, and quantitative analysis indicates that size-dependent taxes can substantially improve welfare.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: Productivity and Growth Rate by Production Lines
 
-![](paper1.png)
-
----
-
-##### Citation
-
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
+![](growth.jpg)
 
 ---
 
-##### Related material
+ ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Presentation slides](Added Soon)

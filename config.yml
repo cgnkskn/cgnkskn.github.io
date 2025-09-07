@@ -62,7 +62,7 @@ params:
               url: KESKIN_JMP.pdf
             - name: Curriculum vitae
               url: cagin_cv.pdf
-            - name: Papers
+            - name: Research
               url: papers/
             
     socialIcons:
