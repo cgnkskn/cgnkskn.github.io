@@ -1,6 +1,7 @@
 ---
 title: "Capital Injection in the Production Network" 
 #date: 2004-12-28
+weight: 2
 tags: ["Production Networks", "Foreign Acquisitions", "Markup Dynamics"]
 author: ["Cagin Keskin", "Paolo Zacchia"]
 #description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 

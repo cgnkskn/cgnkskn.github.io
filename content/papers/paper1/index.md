@@ -1,6 +1,7 @@
 ---
-title: "Firm Scope and Innovation: The Role of Intangibles" 
+title: "Firm Scope and Innovation: The Role of Intangibles (JMP)" 
 #date: 2013-01-15
+weight: 1
 tags: ["Schumpeterian growth", "step-by-step innovation", "intangibles", "firm dynamics", "span of control"]
 author: ["Cagin Keskin"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
