@@ -43,11 +43,25 @@ params:
     profileMode:
           enabled: true
           title: Cagin Keskin
-          subtitle: "I am a Ph.D. candidate at CERGE-EI (Center for Economic Research and Graduate Education—Economics Institute), a joint workplace of Charles University and the Czech Academy of Sciences. My research interests lie in firm dynamics, production networks, and more generally topics at the intersection between macroeconomics and international trade. You can reach out to me at Cagin.Keskin@cerge-ei.cz"
+          subtitle: <div className="text-lg"> 
+              I am a Ph.D. candidate at CERGE-EI, a joint workplace of Charles University and the Czech Academy of Sciences. 
+              <br /> 
+              <span className="text-xl font-medium">
+                My research interests lie in firm dynamics, production networks, and more generally topics at the intersection between macroeconomics and international trade.
+              </span>
+              <br />
+              <strong>In 2025/2026, I will be on the academic job market.</strong>
+              </span>
+            </div>
+
           imageUrl: "picture.jpeg"
           imageWidth: 260
           imageHeight: 260
-          buttons:
+          buttons: 
+            - name: Job-market paper
+              url: jmp.pdf
+            - name: Curriculum vitae
+              url: cv.pdf
             - name: Papers
               url: papers/
             
