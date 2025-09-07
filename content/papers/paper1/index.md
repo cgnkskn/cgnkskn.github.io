@@ -7,10 +7,10 @@ description: "This paper reviews unusual uses for olive oil throughout the Medit
 summary: "Horizontal expansion through an increasing product portfolio lies at the core of modern endogenous growth literature. Yet evidence remains limited on how diversification across industries influences a firm's trade-off between generating social surplus and capturing private returns." 
 cover:
     #image: "growth.jpg"
-    alt: "Some Uses For Olive Oil"
+    #alt: "Some Uses For Olive Oil"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    #URL: "https://github.com/pmichaillat/hugo-website"
     #Text: "Journal of Oleic Science"
 
 ---
