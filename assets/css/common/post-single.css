@@ -16,7 +16,7 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-    font-size: 22px;
+    font-size: 15px;
 }
 
 .post-meta .i18n_list li {
