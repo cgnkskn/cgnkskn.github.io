@@ -73,7 +73,7 @@ params:
         - name: Location
           url: location/
         - name: GitHub
-          url: "https://cgnkskn.github.io"
+          url: "https://github.com/cgnkskn"
         - name: Twitter
           url: https://x.com/cgnkskn
         #- name: Bluesky
