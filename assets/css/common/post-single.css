@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .page-header,
 .post-header {
     margin: 24px auto var(--content-gap) auto;
