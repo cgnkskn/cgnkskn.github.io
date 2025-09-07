@@ -46,7 +46,7 @@ params:
           subtitle: <div className="text-lg"> 
               I am a Ph.D. candidate at CERGE-EI, a joint workplace of Charles University and the Czech Academy of Sciences. 
               <br /> 
-              <span className="text-xl font-medium">
+              <span className="text-3xl font-medium">
                 My research interests lie in firm dynamics, production networks, and more generally topics at the intersection between macroeconomics and international trade.
               </span>
               <br />
