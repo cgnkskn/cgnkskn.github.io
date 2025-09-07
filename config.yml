@@ -17,7 +17,7 @@ menu:
           weight: 2
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Cagin Keskin's research papers, course materials, data, curriculum vitae, and contact information."
     author: Cagin Keskin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -59,9 +59,9 @@ params:
           imageHeight: 260
           buttons: 
             - name: Job-market paper
-              url: jmp.pdf
+              url: KESKIN_JMP.pdf
             - name: Curriculum vitae
-              url: cv.pdf
+              url: cagin_cv.pdf
             - name: Papers
               url: papers/
             
@@ -69,15 +69,15 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:Cagin.Keskin@cerge-ei.cz
         - name: Location
           url: location/
         - name: GitHub
           url: "https://cgnkskn.github.io"
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/cgnkskn
+        #- name: Bluesky
+        #  url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
