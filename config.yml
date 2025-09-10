@@ -87,7 +87,7 @@ params:
     label:
       text: "Cagin  Keskin"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 19
 
 markup:
     goldmark:
