@@ -67,7 +67,7 @@ params:
             
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cagin_cv.pdf
         - name: Email
           url: mailto:Cagin.Keskin@cerge-ei.cz
         - name: Location
