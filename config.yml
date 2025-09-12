@@ -64,7 +64,6 @@ params:
               url: cagin_cv.pdf
             - name: Research
               url: papers/
-            
     socialIcons:
         - name: CV
           url: cagin_cv.pdf
