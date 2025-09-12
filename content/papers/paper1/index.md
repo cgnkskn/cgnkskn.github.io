@@ -4,8 +4,9 @@ title: "Firm Scope and Innovation: The Role of Intangibles (JMP)"
 weight: 1
 tags: ["Schumpeterian growth", "step-by-step innovation", "intangibles", "firm dynamics", "span of control"]
 author: ["Cagin Keskin"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
+description: "" 
 summary: "Horizontal expansion through an increasing product portfolio lies at the core of modern endogenous growth literature. Yet evidence remains limited on how diversification across industries influences a firm's trade-off between generating social surplus and capturing private returns." 
+
 cover:
     #image: "growth.jpg"
     #alt: "Some Uses For Olive Oil"
@@ -21,7 +22,8 @@ editPost:
 ##### Download
 
 + [Paper](KESKIN_JMP.pdf)
-+ [Code and data](Added Soon)
++ + [Presentation slides](Will be added soon)
+
 
 ---
 
@@ -36,7 +38,3 @@ Horizontal expansion through an increasing product portfolio lies at the core of
 ![](growth.jpg)
 
 ---
-
- ##### Related material
-
-+ [Presentation slides](Added Soon)
