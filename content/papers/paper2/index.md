@@ -3,7 +3,7 @@ title: "Capital Injection in the Production Network"
 #date: 2004-12-28
 weight: 2
 tags: ["Production Networks", "Foreign Acquisitions", "Markup Dynamics"]
-author: ["Cagin Keskin", "Paolo Zacchia"]
+author: ["Cagin Keskin, Paolo Zacchia"]
 #description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "We examine the production network effects of domestic vs. foreign acquisitions of Turkish firms. Following foreign (but not domestic) acquisitions, we observe an erosion of the acquired firms’ markup, that is compensated by increased markups of those firms’ upstream sellers." 
 cover:
@@ -15,6 +15,9 @@ editPost:
     #Text: "Journal of Canine Science"
 
 ---
+##### Authors
+
+Cagin Keskin and [Paolo Zacchia](https://www.paolozacchia.com/)
 
 ---
 

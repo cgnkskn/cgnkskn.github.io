@@ -4,6 +4,7 @@ title: "Firm Scope and Innovation: The Role of Intangibles (JMP)"
 weight: 1
 tags: ["Schumpeterian growth", "step-by-step innovation", "intangibles", "firm dynamics", "span of control"]
 description: "" 
+author: ["Cagin Keskin"]
 summary: "Horizontal expansion through an increasing product portfolio lies at the core of modern endogenous growth literature. Yet evidence remains limited on how diversification across industries influences a firm's trade-off between generating social surplus and capturing private returns." 
 
 cover:
@@ -14,10 +15,11 @@ editPost:
     #URL: "https://github.com/pmichaillat/hugo-website"
     #Text: "Journal of Oleic Science"
 ---
-##### Author  
+##### Authors
 
-[Cagin Keskin]
+Cagin Keskin
 
+---
 ##### Download
 
 + [Paper](KESKIN_JMP.pdf)
