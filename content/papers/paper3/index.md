@@ -23,7 +23,7 @@ Cagin Keskin
 ##### Download
 
 + [Paper](will be added soon)
-+ [Presentation slides](will be added soon
++ [Presentation slides](will be added soon)
 
 
 ---
