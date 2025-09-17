@@ -68,7 +68,7 @@ params:
         - name: CV
           url: cagin_cv.pdf
         - name: Email
-          url: mailto:Cagin.Keskin@cerge-ei.cz
+          url: mailto:Cagin.Keskin@cerge-ei.c
         - name: Location
           url: location/
         - name: GitHub
