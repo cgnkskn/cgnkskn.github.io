@@ -54,9 +54,9 @@ params:
               </span>
             </div>
 
-          imageUrl: "cagin_21.jpg"
+          imageUrl: "cagin_21.png"
           imageWidth: 180
-          imageHeight: 200
+          imageHeight: 180
           buttons: 
             - name: Job-market paper
               url: KESKIN_JMP.pdf
@@ -64,6 +64,8 @@ params:
               url: cagin_cv.pdf
             - name: Research
               url: papers/
+            - name: Teaching
+              url: teaching/
     socialIcons:
         - name: CV
           url: cagin_cv.pdf
