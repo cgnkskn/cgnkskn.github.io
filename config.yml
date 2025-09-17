@@ -56,7 +56,7 @@ params:
 
           imageUrl: "cagin_21_3.png"
           imageWidth: 180
-          imageHeight: 220
+          imageHeight: 200
           buttons: 
             - name: Job-market paper
               url: KESKIN_JMP.pdf
