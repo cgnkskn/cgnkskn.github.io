@@ -23,7 +23,7 @@ Cagin Keskin and [Paolo Zacchia](https://www.paolozacchia.com/)
 
 ##### Download
 
-+ [Paper](Network_Acquisitions_Paper.pdf)
++ [Paper](Network%20_Acquisitions_Paper.pdf)
 
 ---
 
