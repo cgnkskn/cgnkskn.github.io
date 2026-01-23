@@ -22,7 +22,7 @@ Cagin Keskin
 ---
 ##### Download
 
-+ [Paper *(<span style="color:#003366;"><strong>Best Paper Award, The Econometric Society Asian Meeting</strong></span>)*](KESKIN_JMP.pdf)
++ [Paper *(<span style="color:#003366;"><strong>Best Paper Award, The Econometric Society Asia Meeting</strong></span>)*](KESKIN_JMP.pdf)
 + [Presentation slides](will be added soon)
 
 
