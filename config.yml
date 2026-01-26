@@ -58,6 +58,9 @@ params:
           imageWidth: 180
           imageHeight: 200
           buttons: 
+            - name: JMP (Best Paper Award, The Econometric Society Asia Meeting)
+              url:  KESKIN_JMP.pdf
+
             - name: Curriculum vitae
               url: cagin_cv.pdf
             - name: Research
