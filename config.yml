@@ -61,7 +61,7 @@ params:
             - name: JMP (Best Paper Award, The Econometric Society Asia Meeting)
               url:  KESKIN_JMP.pdf
 
-            - name: Curriculum vitae
+            - name: Curriculum Vitae
               url: cagin_cv.pdf
             - name: Research
               url: papers/
