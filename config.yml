@@ -42,7 +42,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Cagin Keskin
+          title: Cagin Keski
           subtitle: <div className="text-lg"> 
               I am a Ph.D. candidate at CERGE-EI, a joint workplace of Charles University and the Czech Academy of Sciences. 
               <br /> 
