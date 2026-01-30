@@ -78,7 +78,7 @@ Horizontal expansion through an increasing product portfolio lies at the core of
   </div>
 </details>
 
-<small>*Presented at: The Econometric Society Asia Meeting (Abu-Dhabi, 2026) ,CREI Macroeconomics Workshop (Barcelona, 2025), CERGE-EI Macro Workshop (Prague, 2025)*</small>
+<small>*Presented at: The Econometric Society Asia Meeting (Abu-Dhabi, 2026), CREI Macroeconomics Workshop (Barcelona, 2025), CERGE-EI Macro Workshop (Prague, 2025)*</small>
 
 ---
 
