@@ -3,10 +3,10 @@ title: "Papers"
 description: "Research activities and outcomes."
 ---
 <style>
-/* Softer section headers */
+/* Section headers in soft black */
 h2 {
-  color: #334155;
-  font-weight: 700;
+  color: #4a5568;              /* soft black */
+  font-weight: 750;
   letter-spacing: -0.2px;
 }
 
@@ -14,10 +14,10 @@ h2::after {
   content: "";
   display: block;
   margin-top: 8px;
-  width: 52px;
+  width: 56px;
   height: 3px;
   border-radius: 999px;
-  background: #dbeafe;
+  background: #cbd5e0;         /* soft gray underline */
 }
 
 /* Abstract dropdown styling */
@@ -43,8 +43,8 @@ h2::after {
 /* Bigger custom arrow */
 .abstract-toggle summary::before {
   content: "▸";
-  font-size: 18px;   /* bigger arrow */
-  color: #3b82f6;
+  font-size: 18px;
+  color: #2563eb;              /* blue arrow */
   transition: none;
 }
 
@@ -61,13 +61,21 @@ h2::after {
   color: #374151;
   line-height: 1.55;
 }
+
+/* Emoji styling */
+.emoji-link {
+  display: inline-block;
+  margin-right: 6px;
+  vertical-align: middle;
+}
 </style>
+
 
 
 ## Working Papers
 
-> <span style="color: #0066cc">**Firm Scope and Innovation: The Role of Intangibles**</span>  
-<span style="color: #0066cc">*[CERGE-EI WP Version](https://www.cerge-ei.cz/pdf/wp/Wp811.pdf)*</span> | <small>[**Best Paper Award**, The Econometric Society Asia Meeting](https://www.cerge-ei.cz/news/cerge-ei-researcher-cagin-keskin-wins-ames-csw-best-paper-award-2026)</small>
+> <span style="color: #004488">**Firm Scope and Innovation: The Role of Intangibles**</span>  
+<span class="emoji-link">📑</span><span style="color: #0066cc">*[CERGE-EI WP Version](https://www.cerge-ei.cz/pdf/wp/Wp811.pdf)*</span> | <small>[**Best Paper Award**, The Econometric Society Asia Meeting](https://www.cerge-ei.cz/news/cerge-ei-researcher-cagin-keskin-wins-ames-csw-best-paper-award-2026)</small>
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
@@ -84,8 +92,8 @@ Horizontal expansion through an increasing product portfolio lies at the core of
 
 ## Work in Progress
 
-> <span style="color: #0066cc">**Capital Injection in the Production Network**</span>  
-<span style="color: #0066cc">*[PDF](Network_Acquisitions_Paper.pdf)*</span> | Joint work with [Paolo Zacchia](https://www.paolozacchia.com/)
+> <span style="color: #004488">**Capital Injection in the Production Network**</span>  
+<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](Network_Acquisitions_Paper.pdf)*</span> | Joint work with [Paolo Zacchia](https://www.paolozacchia.com/)
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
@@ -100,7 +108,7 @@ Using Turkish administrative firm-to-firm transaction data, we study how acquisi
 
 ---
 
-> <span style="color: #0066cc">**Intangible Investment in the ICT Era: The Roles of Trade and Skilled Labor Supply**</span>
+> <span style="color: #004488">**Intangible Investment in the ICT Era: The Roles of Trade and Skilled Labor Supply**</span>
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
@@ -110,5 +118,3 @@ This paper integrates models of skill-biased technological change and internatio
 
   </div>
 </details>
-
----
