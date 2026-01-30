@@ -67,7 +67,7 @@ h2::after {
 ## Working Papers
 
 > <span style="color: #0066cc">**Firm Scope and Innovation: The Role of Intangibles**</span>  
-<span style="color: #0066cc">*[CERGE-EI WP Version](https://www.cerge-ei.cz/pdf/wp/Wp811.pdf)*</span> | <small>**Best Paper Award**, The Econometric Society Asia Meeting</small>
+<span style="color: #0066cc">*[CERGE-EI WP Version](https://www.cerge-ei.cz/pdf/wp/Wp811.pdf)*</span> | <small>[**Best Paper Award**, The Econometric Society Asia Meeting](https://www.cerge-ei.cz/news/cerge-ei-researcher-cagin-keskin-wins-ames-csw-best-paper-award-2026)</small>
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
