@@ -1,3 +1,75 @@
+---
+title: ""
+description: "Research activities and outcomes."
+hidemeta: true
+---
+
+<style>
+/* Section headers in soft black */
+h2 {
+  color: #4a5568;
+  font-weight: 750;
+  letter-spacing: -0.2px;
+}
+
+h2::after {
+  content: "";
+  display: block;
+  margin-top: 8px;
+  width: 56px;
+  height: 3px;
+  border-radius: 999px;
+  background: #cbd5e0;
+}
+
+/* Abstract dropdown styling */
+.abstract-toggle summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  color: #4b5563;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: #f3f6fb;
+  border: 1px solid #e6edf7;
+  width: fit-content;
+}
+
+.abstract-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.abstract-toggle summary::before {
+  content: "▸";
+  font-size: 18px;
+  color: #2563eb;
+  transition: none;
+}
+
+.abstract-toggle[open] summary::before {
+  content: "▾";
+}
+
+.abstract-toggle .abstract-body {
+  margin-top: 10px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: #fbfdff;
+  border: 1px solid #e6edf7;
+  color: #374151;
+  line-height: 1.55;
+}
+
+.emoji-link {
+  display: inline-block;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+</style>
+
 ## Teaching
 
 > <span style="color: #004488">**CERGE-EI**</span>  
@@ -15,7 +87,6 @@
   </div>
 </details>
 
-
 ---
 
 > <span style="color: #004488">**CERGE-EI**</span>  
@@ -27,7 +98,7 @@
 
 • Ran problem-solving sessions covering calculus, linear algebra, and basics of proofs to prepare incoming Ph.D. students.  
 • Created graded homework sets and in-class quizzes; coordinated grading rubric to ensure consistency.  
-• Managed bridging material for students with varying math backgrounds and held extra review sessions before exams.  
+• Managed bridging material for students with varying math backgrounds and held extra review sessions before exams.
 
   </div>
 </details>
