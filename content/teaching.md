@@ -28,7 +28,6 @@
 • Ran problem-solving sessions covering calculus, linear algebra, and basics of proofs to prepare incoming Ph.D. students.  
 • Created graded homework sets and in-class quizzes; coordinated grading rubric to ensure consistency.  
 • Managed bridging material for students with varying math backgrounds and held extra review sessions before exams.  
-• Collected and acted on mid-course feedback to improve pacing and clarity.
 
   </div>
 </details>
