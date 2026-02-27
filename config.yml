@@ -18,7 +18,7 @@ menu:
 
 params:
     description: "This website hosts Cagin Keskin's research papers, course materials, data, curriculum vitae, and contact information."
-    author: Cagin Keski
+    author: Cagin Keskin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
