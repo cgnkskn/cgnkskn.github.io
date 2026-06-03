@@ -49,17 +49,17 @@ params:
               <span className="text-3xl font-medium">
                 My research interests lie in firm dynamics, production networks, and more generally topics at the intersection between macroeconomics and international trade.
               </span>
-              <br />
-              <strong>I am on the 2025/26 Academic Job Market.</strong>
-              </span>
-            </div>
+             # <br />
+             # <strong>I am on the 2025/26 Academic Job Market.</strong>
+             # </span>
+            #</div>
 
           imageUrl: "cagin_21_3.png"
           imageWidth: 180
           imageHeight: 200
           buttons: 
-            - name: JMP (Best Paper Award, The Econometric Society Asia Meeting)
-              url:  KESKIN_JMP.pdf
+           # - name: JMP (Best Paper Award, The Econometric Society Asia Meeting)
+            #  url:  KESKIN_JMP.pdf
 
             - name: Curriculum Vitae
               url: cagin_cv.pdf
