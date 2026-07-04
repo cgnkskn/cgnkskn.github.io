@@ -108,6 +108,19 @@ Using Turkish administrative firm-to-firm transaction data, we study how acquisi
 
 ---
 
+> <span style="color: #004488">**The Anatomy of Firm Scope**</span>  
+<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](The_Anatomy_of_Firm_Scope.pdf)*</span>
+<details class="abstract-toggle">
+  <summary>Abstract</summary>
+  <div class="abstract-body">
+
+I show that firm scope operates along two economically distinct dimensions. Text-based product-market clusters measure related scope—closely linked sub-markets sharing a technological substrate—while the Compustat segment count measures distant scope—operationally separable lines of business. Using a panel of U.S. public firms over 1990–2019, I estimate local projections on patent-value innovation shocks and find that these dimensions govern opposite regimes. Broad related scope generates synergy: firms tilt intangible investment toward R\&D, attract rival entry, and convert innovation into persistent productivity and markup gains. High distant scope generates friction: rents dissipate, productivity gains vanish, and intangible accumulation shifts toward brand and organisational capital. The superstar-firm profile emerges from the structure, not the level, of scope.
+
+  </div>
+</details>
+
+---
+
 > <span style="color: #004488">**Intangible Investment in the ICT Era: The Roles of Trade and Skilled Labor Supply**</span>
 
 <details class="abstract-toggle">
