@@ -108,7 +108,8 @@ Using Turkish administrative firm-to-firm transaction data, we study how acquisi
 
 ---
 
-> <span style="color: #004488">**The Anatomy of Firm Scope**</span>  
+> <span style="color: #004488">**The Anatomy of Firm Scope:  Intangible Composition, Markups, Productivity and
+Competitive Threat**</span>  
 <span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](The_Anatomy_of_Firm_Scope.pdf)*</span>
 <details class="abstract-toggle">
   <summary>Abstract</summary>
