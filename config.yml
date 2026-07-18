@@ -62,8 +62,8 @@ params:
               url: cagin_cv.pdf
             - name: Research
               url: papers/
-            - name: Teaching
-              url: teaching/
+            #- name: Teaching
+            #  url: teaching/
     
     socialIcons:
         - name: CV
