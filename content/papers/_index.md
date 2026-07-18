@@ -121,7 +121,7 @@ In this paper, I investigate how closely related and distant firm scope creates 
 
 ---
 
-> <span style="color: #004488">**Pluralism, Translation, and Growth: Sequential Bottlenecks in the Innovation Pipeline**</span>
+> <span style="color: #004488">**Pluralism, Translation, and Growth: Sequential Bottlenecks in the Innovation**</span>
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
