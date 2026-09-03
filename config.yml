@@ -45,11 +45,15 @@ params:
           title: Cagin Keskin
           subtitle: |
             <div style="font-size: 1.05rem; line-height: 1.7;">
-             <p>
-              I am a Ph.D. candidate at 
-              <a href="https://www.cerge-ei.cz/" target="_blank" rel="noopener" style="color:#0969da; font-weight:600; text-decoration:none;">CERGE-EI</a>,
-              a joint workplace of Charles University and the Czech Academy of Sciences, and a Postdoctoral Fellow at the 
-              <a href="https://kti.krtk.hu/en/" target="_blank" rel="noopener" style="color:#0969da; font-weight:600; text-decoration:none;">HUN-REN Centre for Economic and Regional Studies</a>.
+            <p>
+              I am a Ph.D. candidate at
+              <a href="https://www.cerge-ei.cz/" target="_blank" rel="noopener"
+                style="color:#0969da; font-weight:600; text-decoration:none;">CERGE-EI</a>
+              and a postdoctoral fellow at the
+              <a href="https://kti.krtk.hu/en/" target="_blank" rel="noopener"
+                style="color:#0969da; font-weight:600; text-decoration:none;">
+                HUN-REN Centre for Economic and Regional Studies
+              </a>.
             </p>
               <p>
                 You can reach me at 
