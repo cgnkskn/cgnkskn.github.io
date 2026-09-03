@@ -122,16 +122,6 @@ In this paper, I investigate how closely related and distant firm scope creates 
 ---
 
 > <span style="color: #004488">**Artificial Intelligence and the Scope of the Firm**</span>
-
-<details class="abstract-toggle">
-  <summary>Abstract</summary>
-  <div class="abstract-body">
-
-I build an endogenous growth model in which fundamental knowledge advances through the resolution of disagreement between competing scientific camps, settled science is then converted into commercialisable technology through a separate translation process, and firms gradually adopt and improve upon that technology through standard firm dynamics. Two distinct adaptation rates govern aggregate growth. The first is the rate at which competing scientific approaches reconcile into a settled paradigm. The second is the rate at which settled science is commercialised into technology that firms can use. I show that the two rates act as sequential bottlenecks, that scientific disagreement carries a synergy-versus-friction tradeoff which pins down an interior optimal degree of pluralism, and that the decentralised allocation of research effort is generically inefficient. The framework rationalises the long and variable lags between fundamental breakthroughs and their commercial impact, the canonical instance being the path from the reconciliation of matrix and wave mechanics in the late 1920s to semiconductors, lasers, and magnetic resonance imaging decades later.
-
-  </div>
-</details>
-
 ---
 > <span style="color: #004488">**Pluralism, Translation, and Growth: Sequential Bottlenecks in the Innovation**</span>
 

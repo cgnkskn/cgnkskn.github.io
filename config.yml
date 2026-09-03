@@ -45,17 +45,25 @@ params:
           title: Cagin Keskin
           subtitle: |
             <div style="font-size: 1.05rem; line-height: 1.7;">
-              <p>I am a Ph.D. candidate at CERGE-EI, a joint workplace of Charles University and the Czech Academy of Sciences.</p>
-
-              <p> I will join the <a href="https://kti.krtk.hu/en/" target="_blank" rel="noopener" style="color:#0969da; font-weight:600; text-decoration:none;">HUN-REN Centre for Economic and Regional Studies</a> as a Postdoctoral Fellow in September 2026.</p>
-                    
-               <p>
-              You can reach me at
-              <a href="mailto:Cagin.Keskin@cerge-ei.cz"
-                style="color:#0969da; font-weight:600; text-decoration:none;">
-                Cagin.Keskin@cerge-ei.cz
-              </a>.
+             <p>
+              I am a Ph.D. candidate at 
+              <a href="https://www.cerge-ei.cz/" target="_blank" rel="noopener" style="color:#0969da; font-weight:600; text-decoration:none;">CERGE-EI</a>,
+              a joint workplace of Charles University and the Czech Academy of Sciences, and a Postdoctoral Fellow at the 
+              <a href="https://kti.krtk.hu/en/" target="_blank" rel="noopener" style="color:#0969da; font-weight:600; text-decoration:none;">HUN-REN Centre for Economic and Regional Studies</a>.
             </p>
+              <p>
+                You can reach me at 
+                <a href="mailto:Cagin.Keskin@krtk.elte.hu" 
+                  style="color:#0969da; font-weight:600; text-decoration:none;">
+                  Cagin.Keskin@krtk.elte.hu
+                </a>
+                or
+                <a href="mailto:Cagin.Keskin@cerge-ei.cz" 
+                  style="color:#0969da; font-weight:600; text-decoration:none;">
+                  Cagin.Keskin@cerge-ei.cz
+                </a>.
+              </p>
+
             </div>
 
 
