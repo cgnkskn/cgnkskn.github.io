@@ -93,7 +93,7 @@ Horizontal expansion through an increasing product portfolio lies at the core of
 ## Work in Progress
 
 > <span style="color: #004488">**Capital Injection in the Production Network**</span>  
-<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](Network_Acquisitions_Paper.pdf)*</span> | Joint work with [Paolo Zacchia](https://www.paolozacchia.com/)
+<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF (Version 1.0)](Network_Acquisitions_Paper_September_2026.pdf)*</span> | Joint work with [Paolo Zacchia](https://www.paolozacchia.com/)
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
