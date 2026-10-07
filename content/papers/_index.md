@@ -119,10 +119,8 @@ In this paper, I investigate how closely related and distant firm scope creates 
   </div>
 </details>
 
-
-
 ---
 
-> <span style="color: #004488">**Artificial Intelligence and the Scope of the Firm**</span>
+<span style="color: #004488"><strong>Artificial Intelligence and the Scope of the Firm</strong></span>
 
 ---
