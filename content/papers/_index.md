@@ -70,7 +70,7 @@ h2::after {
 }
 </style>
 
-#### Research Interests: Firm Dynamics, innovation, and trade
+#### Research Interests: Firm Dynamics, innovation, trade and production networks
 
 ## Working Papers
 
