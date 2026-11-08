@@ -79,7 +79,7 @@ params:
             #  url:  KESKIN_JMP.pdf
 
             - name: Curriculum Vitae
-              url: KESKIN_CV.pdf
+              url: Keskin_CV.pdf
             - name: Research
               url: papers/
             #- name: Teaching
@@ -87,7 +87,7 @@ params:
     
     socialIcons:
         - name: CV
-          url: KESKIN_CV.pdf
+          url: Keskin_CV.pdf
         - name: Email
           url: mailto:Cagin.Keskin@cerge-ei.cz
         - name: Location

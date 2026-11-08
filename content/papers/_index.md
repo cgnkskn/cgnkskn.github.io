@@ -86,7 +86,9 @@ Horizontal expansion through an increasing product portfolio lies at the core of
   </div>
 </details>
 
-<small>*Presented at: The Econometric Society Asia Meeting (Abu-Dhabi, 2026), CREI Macroeconomics Workshop (Barcelona, 2025), CERGE-EI Macro Workshop (Prague, 2025)*</small>
+<small>*Presented at: The Econometric Society Asia Meeting (Abu-Dhabi, 2026), CREI Macroeconomics Workshop (Barcelona, 2025), CERGE-EI Macro Workshop (Prague, 2025), Central Bank of the Republic of
+Türkiye (online), KRTK Seminar (Budapest, Scheduled), European Winter Meeting of the Econometric Society (Warsaw, Scheduled)*</small>
+
 
 ---
 
@@ -102,7 +104,8 @@ Using Turkish administrative firm-to-firm transaction data, we study how acquisi
   </div>
 </details>
 
-<small>*Presented at: IEA World Congress (Serbia, 2026, Scheduled)*</small>
+<small>*Presented at: IEA World Congress (Serbia, 2026), IEA 21st World Congress (Belgrade), JIE Summer School in International
+Economics (Milan, poster), ANETI Lab Seminar (Budapest)*</small>
 
 ---
 
