@@ -104,7 +104,7 @@ Using Turkish administrative firm-to-firm transaction data, we study how acquisi
   </div>
 </details>
 
-<small>*Presented at: IEA World Congress (Serbia, 2026), IEA 21st World Congress (Belgrade), JIE Summer School in International
+<small>*Presented at: IEA 21st World Congress (Belgrade), JIE Summer School in International
 Economics (Milan, poster), ANETI Lab Seminar (Budapest)*</small>
 
 ---
