@@ -90,8 +90,6 @@ Horizontal expansion through an increasing product portfolio lies at the core of
 
 ---
 
-## Work in Progress
-
 > <span style="color: #004488">**Capital Injection in the Production Network**</span>  
 <span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF (Version 1.0)](Network_Acquisitions_Paper_September_2026.pdf)*</span> | Joint work with [Paolo Zacchia](https://www.paolozacchia.com/)
 
@@ -108,19 +106,34 @@ Using Turkish administrative firm-to-firm transaction data, we study how acquisi
 
 ---
 
-> <span style="color: #004488">**The Anatomy of Firm Scope:  Intangible Composition, Markups, Productivity and
-Competitive Threat**</span>  
-<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](The_Anatomy_of_Firm_Scope.pdf)*</span>
+> <span style="color: #004488">**Artificial Intelligence, Data and Creative Destruction**</span>  
+<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](Artificial_Intelligence_Data.pdf)*</span>
 <details class="abstract-toggle">
   <summary>Abstract</summary>
   <div class="abstract-body">
 
-In this paper, I investigate how closely related and distant firm scope creates different consequences for innovation. I measure related scope using Hoberg and Phillips (2025) text-based product-market clusters and distant scope using the Compustat segment count. Using a panel of U.S. public firms over 1990–2019, I estimate local projections in response to innovation shocks and find that these two dimensions govern opposite regimes. Closely related scope generates synergy: firms tilt intangible investment toward more R\&D, attract rival entry, and convert innovation into persistent productivity and markup gains. High distant scope generates friction: rents dissipate, productivity gains vanish, and intangible investment in R\&D weakens after the innovation shock. The results show that innovation consequences emerge from the structure, not the level, of scope.
+Artificial intelligence (AI) can codify tacit knowledge, but what it codifies inside a firm is that firm’s own knowledge. I build and calibrate an endogenous growth model in which firms implement the same technology to different degrees, governed by their accumulated data. Implementation substitutes capital for labour and relaxes the span of control, since tasks performed by AI need no oversight, so how efficiency scales with firm size becomes an equilibrium outcome. Because the return to implementation rises with data, which are lost on exit, AI favours large incumbents, makes them harder to displace and reduces the number of firms. Growth rises as incumbents expand, but weaker creative destruction bounds the gain: doubling AI’s potential raises growth by only 0.26 percentage points. Requiring firms to release their data after a few years turns them into public, accumulating knowledge and outperforms research and entry subsidies on welfare, at no fiscal cost.
+
   </div>
 </details>
 
+## Work in Progress
+
 ---
 
-<span style="color: #004488"><strong>Artificial Intelligence and the Scope of the Firm</strong></span>
+<span style="color: #004488"><strong>Public Procurement and Misallocation in Production Networks</strong></span>
+
+---
+
+
+---
+
+<span style="color: #004488"><strong>Camps, Consensus, and Growth</strong></span>
+
+---
+
+---
+
+<span style="color: #004488"><strong>Data and the Direction of Innovation</strong></span>
 
 ---
