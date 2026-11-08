@@ -46,10 +46,7 @@ params:
           subtitle: |
             <div style="font-size: 1.05rem; line-height: 1.7;">
             <p>
-              I am a Ph.D. candidate at
-              <a href="https://www.cerge-ei.cz/" target="_blank" rel="noopener"
-                style="color:#0969da; font-weight:600; text-decoration:none;">CERGE-EI</a>
-              and a postdoctoral fellow at the
+              I am a postdoctoral fellow at the
               <a href="https://kti.krtk.hu/en/" target="_blank" rel="noopener"
                 style="color:#0969da; font-weight:600; text-decoration:none;">
                 HUN-REN Centre for Economic and Regional Studies
@@ -61,11 +58,6 @@ params:
                   style="color:#0969da; font-weight:600; text-decoration:none;">
                   Cagin.Keskin@krtk.elte.hu
                 </a>
-                or
-                <a href="mailto:Cagin.Keskin@cerge-ei.cz" 
-                  style="color:#0969da; font-weight:600; text-decoration:none;">
-                  Cagin.Keskin@cerge-ei.cz 
-                </a>.
               </p>
 
             </div>
