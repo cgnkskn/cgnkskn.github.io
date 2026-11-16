@@ -124,6 +124,13 @@ Artificial intelligence (AI) is available to every firm on equal terms, yet larg
 
 ---
 
+<span style="color: #004488"><strong>Multinational Supply Chains and the Green Transition</strong></span>
+
+---
+
+
+---
+
 <span style="color: #004488"><strong>Public Procurement and Misallocation in Production Networks</strong></span>
 
 ---
