@@ -120,6 +120,29 @@ Artificial intelligence (AI) is available to every firm on equal terms, yet larg
   </div>
 </details>
 
+---
+
+> <span style="color: #004488">**The Anatomy of Scope:
+The Limits of Diversification**</span>  
+<span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](The_Anatomy_of_Scope.pdf)*</span>
+<details class="abstract-toggle">
+  <summary>Abstract</summary>
+  <div class="abstract-body">
+In this paper, I investigate how closely related and distant firm scope creates different
+consequences for innovation. I measure related scope using Hoberg and Phillips
+(2025) text-based product-market clusters and distant scope using the Compustat segment
+count. Using a panel of U.S. public firms over 1990–2019, I estimate local projections
+in response to innovation shocks and find that these two dimensions govern
+opposite regimes. Closely related scope generates synergy: firms tilt intangible investment
+toward more R&D, attract rival entry, and convert innovation into persistent
+productivity and markup gains. High distant scope generates friction: rents dissipate,
+productivity gains vanish, and intangible investment in R&D weakens after the innovation
+shock. The results show that innovation consequences emerge from the structure,
+not the level, of scope.
+
+  </div>
+</details>
+
 ## Work in Progress
 
 ---
