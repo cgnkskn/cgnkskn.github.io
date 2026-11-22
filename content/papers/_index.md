@@ -122,7 +122,7 @@ Artificial intelligence (AI) is available to every firm on equal terms, yet larg
 
 ---
 
-> <span style="color: #004488">**The Anatomy of Scope:
+> <span style="color: #004488">**The Anatomy of Scope: 
 The Limits of Diversification**</span>  
 <span class="emoji-link">📝</span><span style="color: #0066cc">*[Draft PDF](The_Anatomy_of_Scope.pdf)*</span>
 <details class="abstract-toggle">
